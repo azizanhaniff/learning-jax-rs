@@ -26,7 +26,7 @@ Note: These dependencies are available in <i>lib</i>. See <strong>Configure Buil
 2. Clone this project on GitHub Desktop or Sourcetree or any other relevant application.
 
 3. Open Eclipse IDE.
-Open <i>File</i> > </i>Open Projects from File System...<i>.
+Open <i>File</i> > </i>Open Projects from File System...</i>.
 Click <i>Directory...</i> and select the folder of the cloned project.
 Click <i>Finish</i>.
 
