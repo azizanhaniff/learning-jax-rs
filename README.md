@@ -1,7 +1,13 @@
 # Java RESTful API (JAX-RS) using Jersey 2.0
 
-A program sample for JAX-RS using Jersey 2.0 with implementation of CORS included.
-This program was not developed using Maven, although recommended by Jersey to do so.
+A program sample for JAX-RS using Jersey 2.0 with implementation of CORS included. 
+
+This program is not using Maven.
+
+This project was developed with
+1. Eclipse IDE for Enterprise Java Developers, Version 2020-03</strong>
+2. <strong>Tomcat 9</strong>
+3. <strong>JDK 8u131</strong>
 
 ## Getting Started
 
