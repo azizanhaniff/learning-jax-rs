@@ -15,9 +15,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-1. Eclipse IDE (Project was developed with <strong>Eclipse IDE for Enterprise Java Developers, Version 2020-03</strong>)
-2. Tomcat (Project was developed with <strong>Tomcat 9</strong>)
-3. JDK (Project was developed with <strong>JDK 8u131</strong>)
+1. Eclipse IDE
+2. Tomcat
+3. JDK
 4. List of dependencies required to run the project.
     * [Jersey's JAX-RS 2.1 RI bundle](http://repo1.maven.org/maven2/org/glassfish/jersey/bundles/jaxrs-ri/2.30.1/jaxrs-ri-2.30.1.zip) ([official website](https://eclipse-ee4j.github.io/jersey/download.html))
     * [Jackson JAX-RS JSON Provider](https://jar-download.com/artifacts/com.fasterxml.jackson.jaxrs/jackson-jaxrs-json-provider)
