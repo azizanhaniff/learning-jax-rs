@@ -9,9 +9,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-1. Eclipse IDE (Project was developed with Eclipse IDE for Enterprise Java Developers, Version 2020-03)
-2. Tomcat 9 (Project was developed with Tomcat 9 configuration)
-3. JDK 8 (Project was developed with JDK 8u131)
+1. Eclipse IDE (Project was developed with <strong>Eclipse IDE for Enterprise Java Developers, Version 2020-03</strong>)
+2. Tomcat (Project was developed with <strong>Tomcat 9</strong>)
+3. JDK (Project was developed with <strong>JDK 8u131</strong>)
 4. List of dependencies required to run the project.
 [Jersey's JAX-RS 2.1 RI bundle](http://repo1.maven.org/maven2/org/glassfish/jersey/bundles/jaxrs-ri/2.30.1/jaxrs-ri-2.30.1.zip) ([official website](https://eclipse-ee4j.github.io/jersey/download.html))
 [Jackson JAX-RS JSON Provider](https://jar-download.com/artifacts/com.fasterxml.jackson.jaxrs/jackson-jaxrs-json-provider)
@@ -26,7 +26,7 @@ Note: These dependencies are available in <i>lib</i>. See <strong>Configure Buil
 2. Clone this project on GitHub Desktop or Sourcetree or any other relevant application.
 
 3. Open Eclipse IDE.
-Open <i>File</i> > </i>Open Projects from File System...<i>.
+Open <i>File</i> > <i>Open Projects from File System...</i>.
 Click <i>Directory...</i> and select the folder of the cloned project.
 Click <i>Finish</i>.
 
