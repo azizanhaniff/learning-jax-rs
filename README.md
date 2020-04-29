@@ -86,9 +86,7 @@ Export the project as a WAR file.
 2. Choose <i>Web</i> > <i>WAR file</i>.
 3. Choose Destination.
 4. Click Finish.
-5. Copy the WAR file to inside your Tomcat's webapp folder. 
-This automatically extracts the content of the WAR file into webapp folder. 
-You might be seeing a folder of the project's name created soon enough.
+5. Copy the WAR file to inside your Tomcat's webapp folder. This automatically extracts the content of the WAR file into webapp folder. You might be seeing a folder of the project's name created soon enough.
 
 Note: If you want to remove the project from the webapp, simply delete the WAR file. This will automatically delete the folder as well.
 
@@ -99,20 +97,20 @@ Once you've placed the project inside your Tomcat <i>webapp</i> folder, you can 
 The available URLs for sending requests are as below:
 
 ```
-http://localhost:8080/jersey-restful-sample/api/first/hello
+http://localhost:8080/learning-jax-rs/api/first/hello
 GET : text/html, text/plain, text/xml
 
-http://localhost:8080/jersey-restful-sample/api/jaxb/todo
+http://localhost:8080/learning-jax-rs/api/jaxb/todo
 GET : application/json, application/xml, and text/xml
 
-http://localhost:8080/jersey-restful-sample/api/crud/todos
+http://localhost:8080/learning-jax-rs/api/crud/todos
 GET : application/json, application/xml, and text/xml
 
-http://localhost:8080/jersey-restful-sample/api/crud/todos/count
+http://localhost:8080/learning-jax-rs/api/crud/todos/count
 GET : application/json, application/xml, and text/xml
 POST: text/html
 
-http://localhost:8080/jersey-restful-sample/api/crud/todos/{todo}
+http://localhost:8080/learning-jax-rs/api/crud/todos/{todo}
 @todo int e.g. 1, 2.
 GET : application/json, application/xml, and text/xml
 PUT : application/xml
